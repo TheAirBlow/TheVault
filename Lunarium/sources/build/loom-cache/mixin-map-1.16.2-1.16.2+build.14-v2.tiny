@@ -1,0 +1,16 @@
+v1	named	intermediary
+FIELD	net/theairblow/lunarium/mixin/MixinClientConnection	Lio/netty/channel/Channel;	channel	field_11651
+FIELD	net/theairblow/lunarium/mixin/MixinClientPlayerEntity	Lnet/minecraft/client/MinecraftClient;	client	field_3937
+FIELD	net/theairblow/lunarium/mixin/MixinClientPlayerInteractionManager	I	blockBreakingCooldown	field_3716
+FIELD	net/theairblow/lunarium/mixin/MixinContainerScreen	I	backgroundWidth	field_2792
+FIELD	net/theairblow/lunarium/mixin/MixinContainerScreen	I	backgroundHeight	field_2779
+FIELD	net/theairblow/lunarium/mixin/MixinPacketInflater	Ljava/util/zip/Inflater;	inflater	field_11622
+FIELD	net/theairblow/lunarium/mixin/MixinPlayerEntity	Lnet/minecraft/entity/player/PlayerInventory;	inventory	field_7514
+FIELD	net/theairblow/lunarium/mixin/MixinRenderTickCounter	F	lastFrameDuration	field_1969
+FIELD	net/theairblow/lunarium/mixin/MixinRenderTickCounter	F	tickDelta	field_1970
+FIELD	net/theairblow/lunarium/mixin/MixinRenderTickCounter	J	prevTimeMillis	field_1971
+FIELD	net/theairblow/lunarium/mixin/MixinRenderTickCounter	F	tickTime	field_1968
+FIELD	net/theairblow/lunarium/mixin/MixinWorldRenderer	Lnet/minecraft/client/render/BufferBuilderStorage;	bufferBuilders	field_20951
+METHOD	net/theairblow/lunarium/mixin/MixinClientConnection	(Lnet/minecraft/network/Packet;Lio/netty/util/concurrent/GenericFutureListener;)V	sendImmediately	method_10764
+METHOD	net/theairblow/lunarium/mixin/MixinClientPlayerEntity	(FF)V	autoJump	method_3148
+METHOD	net/theairblow/lunarium/mixin/MixinSharedConstants	(C)Z	isValidChar	method_643

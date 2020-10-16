@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "lunarium",
+  "version": "1.16.2",
+
+  "name": "Lunarium Client",
+  "description": "lunarium for true gamers",
+  "authors": [
+    "Bleach#0136",
+	"TheAirBlow"
+  ],
+  "contact": {
+    "homepage": "https://theairblow.tk",
+    "sources": "https://theairblow.tk/lunarium?req=sources"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/lunarium/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.theairblow.lunarium.LunariumClient"
+    ]
+  },
+  "mixins": [
+    "lunarium.mixins.json"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "ClickGui": {
+    "bind": 344
+  },
+  "CrystalAura": {
+    "bind": 73
+  },
+  "EntityControl": {
+    "toggled": true,
+    "bind": 96
+  },
+  "FastUse": {
+    "bind": 66
+  },
+  "Flight": {
+    "bind": 71
+  },
+  "Freecam": {
+    "bind": 85
+  },
+  "Fullbright": {
+    "bind": 67
+  },
+  "Jesus": {
+    "bind": 74
+  },
+  "Killaura": {
+    "bind": 75
+  },
+  "PacketFly": {
+    "bind": 72
+  },
+  "Scaffold": {
+    "bind": 78
+  },
+  "SpeedHack": {
+    "bind": 86
+  },
+  "Xray": {
+    "bind": 88
+  }
+}

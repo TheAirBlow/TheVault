@@ -4,11 +4,11 @@ This repo contains all abandoned projects by me.
 These can be used *without permission*, cus no license.
 
 
-**Lunarium** - Minecraft cheat
+**DoggoMC** - Minecraft bot.
 
-**GameMaker 8.0** - all of my old things created in GameMaker.
+**Lunarium** - Minecraft cheat.
 
-**DoggoMC** - Minecraft node.js bot.
+**GameMaker 8.0** - So many things about GameMaker.
 
 # Copyright
 (C) TheAirBlow 2020
