@@ -1,0 +1,7 @@
+instance_create(64,64,o_wall)
+instance_create(96,96,o_wall)
+instance_create(96,64,o_wall)
+instance_create(128,64,o_wall)
+instance_create(128,96,o_wall)
+instance_create(64,96,o_wall)
+instance_create(512,288,o_wall)

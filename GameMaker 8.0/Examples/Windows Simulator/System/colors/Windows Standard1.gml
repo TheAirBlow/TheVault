@@ -1,0 +1,17 @@
+global.Win_C_Window=13160660;
+global.Win_C_WindowBackground=8421504;
+global.Win_C_Light=16777215;
+global.Win_C_Light2=13160660;
+global.Win_C_Shadow=8421504;
+global.Win_C_Shadow2=4210752;
+global.Win_C_TitleBarActive=6956042;
+global.Win_C_TitleBarGradientActive=15780518;
+global.Win_C_TitleBarInActive=8421504;
+global.Win_C_TitleBarGradientInActive=12632256;
+global.Win_C_TitleBarTextActive=16777215;
+global.Win_C_TitleBarTextInActive=12632256;
+global.Win_C_Text=0;
+global.Win_C_Text_Selected=16777215;
+global.Win_C_Text_Disabled=8421504;
+global.Win_C_Selected=6956042;
+global.Win_C_ToolTip=14811135;

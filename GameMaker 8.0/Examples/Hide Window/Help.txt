@@ -1,0 +1,29 @@
+This dll is copyright © InfoProducts.
+
+HideWin - Use this to hide the game maker window only
+ShowWin - Use this to show the game maker window
+HideTask - Use this to hide the game maker's taskbar
+ShowTask - Use this to restore the game maker's taskbar
+ComHide - Use this to hide window and even taskbar icon.
+ComShow - Use this to restore window and taskbar icon.
+
+This dll is copyright © InfoProducts.
+
+I am not responsible for any damage this dll in your system and i am not responsible the way this dll is used in any GameMaker game.
+
+
+RU:
+
+Права на dll принадлежат © InfoProducts.
+
+HideWin - Используй это чтобы скрыть только окно игры.
+ShowWin - Используй это чтобы показать окно игры.
+HideTask - Используй это чтобы скрыть окно игры на панеле задач.
+ShowTask - Используй это чтобы восстановить окно игры на панеле задач.
+ComHide - Используй это чтобы скрыть окно и даже окно игры на панеле задач.
+ComShow - Используй это чтобы восстановить окно и окно игры на панеле задач.
+
+Я не несу ответсвенность за любой ущерб принисенный этой dll в вашей системы и я не несу ответсвенность за метод, которым dll используется в любой игре сделанной на GameMaker.
+
+Права на dll принадлежат © InfoProducts.
+

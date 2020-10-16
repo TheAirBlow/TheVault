@@ -1,0 +1,16 @@
+global.Win_C_Window=c_ltgray;
+global.Win_C_Light=c_white;
+global.Win_C_Light2=c_ltgray;
+global.Win_C_Shadow=c_gray;
+global.Win_C_Shadow2=0;
+global.Win_C_TitleBarActive=c_navy;
+global.Win_C_TitleBarGradientActive=c_blue;
+global.Win_C_TitleBarInActive=c_gray;
+global.Win_C_TitleBarGradientInActive=c_ltgray;
+global.Win_C_TitleBarTextActive=c_white;
+global.Win_C_TitleBarTextInActive=c_ltgray;
+global.Win_C_Text=0;
+global.Win_C_Text_Selected=c_white;
+global.Win_C_Text_Disabled=c_gray;
+global.Win_C_Selected=c_navy;
+global.Win_C_ToolTip=14811135;

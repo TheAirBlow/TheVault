@@ -1,0 +1,6 @@
+[17:24:27] [main/INFO]: Loading tweak class name org.tlauncher.tweaker.Tweaker
+[17:24:27] [main/INFO]: Using primary tweak class name org.tlauncher.tweaker.Tweaker
+[17:24:27] [main/WARN]: Tweak class name org.tlauncher.tweaker.Tweaker has already been visited -- skipping
+[17:24:27] [main/INFO]: Calling tweak class org.tlauncher.tweaker.Tweaker
+[17:24:27] [main/INFO]: Launching wrapped minecraft {org.tlauncher.Main}
+[17:24:29] [main/INFO]: Setting user: Azm0dan000

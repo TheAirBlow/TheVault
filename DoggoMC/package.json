@@ -1,0 +1,19 @@
+{
+  "name": "doggomc",
+  "version": "1.0.0",
+  "description": "Minecraft bot",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TheAirBlow",
+  "license": "ISC",
+  "dependencies": {
+    "mineflayer": "^2.27.0",
+    "mineflayer-armor-manager": "^1.1.0",
+    "mineflayer-pathfinder": "^1.0.10",
+    "proc-restart": "0.0.1",
+    "sleep": "^6.3.0"
+  }
+}

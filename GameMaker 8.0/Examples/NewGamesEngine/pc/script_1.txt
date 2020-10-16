@@ -1,0 +1,13 @@
+//You can change some objects draw distance limit. 
+object16.drawd = 3500 //wall
+object15.drawd = 3500 //wall
+object17.drawd = 35500 //road
+object18.drawd = 35500 //road
+object19.drawd = 15500 //road
+object24.drawd = 15500 //road
+object20.drawd = 15500 //road
+object23.drawd = 15500 //road
+//If you want to deactivate some objects for more perfomance, see next code
+//And also remember!! If ya'wan deactivate them, REMOVE =false (=true doesnt work!)
+instance_deactivate_object(obj_clouds) = false
+instance_deactivate_object(obj_clouds_h) = false
