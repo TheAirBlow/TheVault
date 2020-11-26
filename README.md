@@ -1,7 +1,7 @@
 # The Vault
 This repo contains all abandoned projects by me.
 
-These can be used *without permission*, cus no license.
+These can be used *without permission*. You can download, modify, and upload it where you want.
 
 
 **DoggoMC** - Minecraft bot.
